@@ -1,2 +1,1 @@
-# xsstestcase.github.io
-Cross-Site Scripting Test Case
+# Cross-Site Scripting Test Case
