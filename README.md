@@ -2,7 +2,4 @@
 
 ### Cross-Site Scripting (XSS) Payload list
 
-```
-<script>alert(1);</script>
-<IMG onmouseover="alert('xxs')">
-```
+![Image of payload](https://github.com/ahictf/xsstestcase/blob/main/imgs/payload.PNG)
