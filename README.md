@@ -1,4 +1,4 @@
-# Cross-Site Scripting Test Case
+# Cross-Site Scripting (XSS) Test Case
 
 ### Cross-Site Scripting (XSS) Payload list
 XSS Payload List
