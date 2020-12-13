@@ -1,11 +1,12 @@
 # Cross-Site Scripting (XSS) Test Case
 ### test Case
-Use Case Name | Cross-Site Scripting Test Case
------------- | -------------
-Precondition | User is not logged into the system
-|  | User is logged into the system
-Inputs | Cross-Site Script payload list
-Expected result | tesx show in web page normally not execute JavaScript (eg. not pup up alert show up)
+
+| Use Case Name | Cross-Site Scripting Test Case |
+| --- | --- |
+| Precondition | User is not logged into the system |
+|  | User is logged into the system |
+| Inputs | Cross-Site Script payload list |
+| Expected result | tesx show in web page normally not execute JavaScript (eg. not pup up alert show up) |
 
 
 ### Cross-Site Scripting (XSS) Payload list
@@ -20,4 +21,9 @@ XSS Payload List
 
 
 ![Image of payload](https://ahictf.github.io/xsstestcase/imgs/payload.PNG)
-j
+
+### Team Author
+```
+Nipitpon Doungyai
+Saran Kaewnang
+```
