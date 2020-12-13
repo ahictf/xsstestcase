@@ -20,3 +20,4 @@ XSS Payload List
 
 
 ![Image of payload](https://ahictf.github.io/xsstestcase/imgs/payload.PNG)
+j
