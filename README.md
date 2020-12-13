@@ -1,6 +1,6 @@
 # Cross-Site Scripting (XSS) Test Case
 ### test Case
-| Use Case Name | Cross-Site Scripting Test Case|
+| Use Case Name | Cross-Site Scripting Test Case |
 | --- | --- |
 | Precondition | User is not logged into the system |
 |  | User is logged into the system |
