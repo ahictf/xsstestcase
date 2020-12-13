@@ -2,4 +2,4 @@
 
 ### Cross-Site Scripting (XSS) Payload list
 
-![Image of payload](https://github.com/ahictf/xsstestcase/blob/main/imgs/payload.PNG)
+![Image of payload](https://ahictf.github.io/xsstestcase/imgs/payload.PNG)
