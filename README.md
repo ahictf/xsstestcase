@@ -1,5 +1,6 @@
 # Cross-Site Scripting (XSS) Test Case
-### test Case
+
+### Test Case
 
 | Test Case Name | Reflected Cross-Site Scripting Test Case (Authenticated User) |
 | --- | --- |
